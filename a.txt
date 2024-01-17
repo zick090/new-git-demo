@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 wellcomeg
+=======
+;odhadfhalksdhashd;ashdf
+>>>>>>> 52c2d06 (tinh-nang-2)
